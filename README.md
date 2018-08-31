@@ -45,3 +45,4 @@ function printDate() {
 }
 printDate();
 ```
+The answer is 3
